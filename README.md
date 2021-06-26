@@ -1,0 +1,2 @@
+# temaB-sicoWordpress
+themaBásicoWordpress
